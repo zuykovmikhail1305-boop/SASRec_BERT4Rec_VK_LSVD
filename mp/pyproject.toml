@@ -10,4 +10,5 @@ dependencies = [
     "pandas>=3.0.6",
     "polars>=1.44.2",
     "pyarrow>=25.0.1",
+    "seaborn>=0.13.2",
 ]
